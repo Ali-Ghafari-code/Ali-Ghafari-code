@@ -7,7 +7,9 @@
 - 🌟 Outside of coding, I enjoy listening to music and podcost, playing video games, and exploring the latest tech trends.  
 - 📫 How to reach me: alighafari.code@gmail.com  
 - 🌐 Portfolio: Soon  
-- 🐙 GitHub: 
+- 🐙 GitHub:
+- https://ali-ghafari-code.github.io/React-Todo-List/
+- https://ali-ghafari-code.github.io/movie-api-ts/
 
 
 
