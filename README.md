@@ -6,7 +6,7 @@
 - 🎯 My goal is to become a full-stack developer and build impactful web applications that solve real-world problems.  
 - 🌟 Outside of coding, I enjoy listening to music and podcost, playing video games, and exploring the latest tech trends.  
 - 📫 How to reach me: alighafari.code@gmail.com  
-- 🌐 Portfolio: alighafari.com
+- 🌐 Portfolio: (https://portfolio-pdcctr52e-ali-ghafari-codes-projects.vercel.app/)
 - 🐙 GitHub:
 - https://ali-ghafari-code.github.io/React-Todo-List/
 - https://ali-ghafari-code.github.io/movie-api-ts/
