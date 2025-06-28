@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ali Ghafari
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Ghafari-code)](https://github.com/Ali-Ghafari-code/github-readme-stats)
+<img alt="myStat" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ali-Ghafari-code" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="myStat" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Ghafari-code&layout=donut" />
