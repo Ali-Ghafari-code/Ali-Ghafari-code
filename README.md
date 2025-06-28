@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ali Ghafari  
+#👋 Hi, I’m Ali Ghafari
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Ghafari-code)](https://github.com/Ali-Ghafari-code/github-readme-stats)
 - 👀 I’m interested in web development  
 - 🌱 I’m currently learning Next.js  
 - 💞️ I’m looking to collaborate on exciting web development projects, particularly using React, Django, or TypeScript, to create innovative and user-friendly applications.  
